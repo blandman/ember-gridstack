@@ -42,7 +42,7 @@ module.exports = {
     // Gridstack
     app.import(app.bowerDirectory + '/gridstack.js/dist/gridstack.all.js');
 
-    app.import(app.bowerDirectory + '/gridstack/dist/gridstack.css');
+    app.import(app.bowerDirectory + '/gridstack.js/dist/gridstack.css');
 
   }
 };
